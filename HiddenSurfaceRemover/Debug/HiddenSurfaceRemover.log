@@ -1,0 +1,53 @@
+﻿  Mesh.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\mesh.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\mesh.cpp(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\mesh.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\mesh.cpp(66): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Octree.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octree.cpp(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octree.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  Octreehierarchicalzbuffer.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octreehierarchicalzbuffer.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octreehierarchicalzbuffer.cpp(23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octreehierarchicalzbuffer.cpp(24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octreehierarchicalzbuffer.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\octreehierarchicalzbuffer.cpp(69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Scanlinezbuffer.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(95): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(98): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(107): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(110): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(221): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\scanlinezbuffer.cpp(229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  hierarchicalzbuffer.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(31): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(32): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(33): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(34): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(64): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(65): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\hierarchicalzbuffer.cpp(150): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\main.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\main.cpp(169): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+  render.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\render.cpp(88): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\render.cpp(89): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  zbuffer.cpp
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\utils.h(27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\yuqifan\source\repos\hiddensurfaceremover\hiddensurfaceremover\zbuffer.cpp(94): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  HiddenSurfaceRemover.vcxproj -> C:\Users\Yuqifan\source\repos\HiddenSurfaceRemover\Debug\HiddenSurfaceRemover.exe
